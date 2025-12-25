@@ -240,8 +240,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 🔗 Links
 
 - 🚀 **API:** [RapidAPI](https://rapidapi.com/kaptancan0707/api/image-converter-api3)
-- 🌐 **Website:** [GrabTune](https://grabtune.tech)
 
 ---
 
-Made with ❤️ by [GrabTune](https://grabtune.tech)
+
